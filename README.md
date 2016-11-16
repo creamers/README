@@ -1,2 +1,2 @@
 # README
-Please see Please see https://github.com/wesleykirkland
+I have moved my repos to https://github.com/wesleykirkland
